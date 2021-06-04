@@ -105,9 +105,11 @@ a{
         }
     }
 }`
+
 const UserImg = styled.img`
 height:50px;
 width:50px;
 border-radius:24px;
 cursor:pointer;
 `
+ 
